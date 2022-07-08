@@ -29,7 +29,9 @@ Se você não está tão familiarizado com python faça o seguinte:
 
 7 - Após a execução do script verifique que ele gerou um arquivo CSV com todas as informações, usuarios, url das imagens dos perfis e as imagens suspeitas. Ou seja, todas as imagens e perfis que são mais parecidas com o logo da sua marca, a partir disso você terá controle de quais perfis estão usando o nome e logo da sua marca.
 
+Nesse projeto tive a colaboração de meus amigos @beatriz-rodrig e @esdrasteixeira
 
 Tecnologias utilizadas:
 
 <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
